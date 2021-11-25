@@ -1,0 +1,24 @@
+{
+  "files": {
+    "app.js": "/storyBook/static/js/app.9e2f69e4.chunk.js",
+    "app.js.map": "/storyBook/static/js/app.9e2f69e4.chunk.js.map",
+    "runtime~app.js": "/storyBook/static/js/runtime~app.8c5faeb9.js",
+    "runtime~app.js.map": "/storyBook/static/js/runtime~app.8c5faeb9.js.map",
+    "static/js/2.1d903e7e.chunk.js": "/storyBook/static/js/2.1d903e7e.chunk.js",
+    "static/js/2.1d903e7e.chunk.js.map": "/storyBook/static/js/2.1d903e7e.chunk.js.map",
+    "favicon-16.png": "/storyBook/favicon-16.png",
+    "favicon-32.png": "/storyBook/favicon-32.png",
+    "favicon.ico": "/storyBook/favicon.ico",
+    "index.html": "/storyBook/index.html",
+    "manifest.json": "/storyBook/manifest.json",
+    "serve.json": "/storyBook/serve.json",
+    "static/js/2.1d903e7e.chunk.js.LICENSE.txt": "/storyBook/static/js/2.1d903e7e.chunk.js.LICENSE.txt",
+    "static/media/color-circle.png": "/storyBook/static/media/color-circle.aeee73f0.png",
+    "static/media/hsv_triangle_mask.png": "/storyBook/static/media/hsv_triangle_mask.cd409b9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.8c5faeb9.js",
+    "static/js/2.1d903e7e.chunk.js",
+    "static/js/app.9e2f69e4.chunk.js"
+  ]
+}
